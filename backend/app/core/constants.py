@@ -1,0 +1,10 @@
+STREAM_START = 'stream_start'
+STREAM_TOKEN = 'token'
+STREAM_TOOL_CALL = 'tool_call'
+STREAM_TOOL_RESULT = 'tool_result'
+STREAM_COMPLETE = 'stream_complete'
+STREAM_ERROR = 'stream_error'
+STREAM_CANCELLED = 'cancelled'
+
+DEFAULT_SESSION_USER = 'local-user'
+DEFAULT_CONVERSATION_ID_PREFIX = 'session-'
