@@ -1,4 +1,4 @@
-# Project GEWN
+# Project GEWN (Under Devlopment)
 
 **AI-Native Desktop Copilot Platform**
 
